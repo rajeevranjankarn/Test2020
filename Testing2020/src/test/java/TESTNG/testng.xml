@@ -1,0 +1,13 @@
+<suite name ="TESTNGS">
+
+<test name="Test1">
+
+<classes>
+
+<class name="TESTNG.Test1"></class>
+
+</classes>
+
+</test>
+
+</suite>
