@@ -6,7 +6,7 @@ public class exmple {
 		// TODO Auto-generated method stub
 
 		
-		int a=6;
+		int a=7;
 		
 		System.out.println("add "+a);
 		
