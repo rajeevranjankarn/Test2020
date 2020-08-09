@@ -19,6 +19,7 @@ public class traction extends abstractions {
 	c=a+b;	
 		System.out.println("Sub is" +c);
 		return c;
+		System.out.println("Changes look like");
 	}
 
 }
